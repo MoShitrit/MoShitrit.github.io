@@ -1,0 +1,17 @@
+# Site settings
+title: Moshe Shitrit
+description: Site Reliability Engineer, big fan of Kubernetes, Huge Potterhead, Love my family
+
+# User settings
+username: Moshe Shitrit
+user_description: Devoted father & husband, Kubernetes Nerd, huge Potterhead & Star Wars fan
+user_title: Site Reliability Engineer @ <a href="https://www.salesloft.com">SalesLoft</a>
+email: moshe@shitrit.co
+twitter_username: MoShitrit
+github_username:  MoShitrit
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
