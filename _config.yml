@@ -1,11 +1,11 @@
 # Site settings
 title: Moshe Shitrit
-description: Site Reliability Engineer, big fan of Kubernetes, Huge Potterhead, Love my family
+description: Site Reliability Engineer, Kubernetes Nerd, Hardcore Potterhead & Star Wars Fan
 
 # User settings
 username: Moshe Shitrit
-user_description: Devoted  husband & father, Kubernetes Nerd, huge Potterhead & Star Wars fan
-user_title: Site Reliability Engineer @ <a href="https://www.salesloft.com">SalesLoft</a>
+user_description: Devoted husband & father, Kubernetes Nerd, huge Potterhead & Star Wars fan
+user_title: Site Reliability Engineer @ <a href="https://www.salesloft.com">SalesLoft</a><br/>Atlanta, GA
 email: moshe@shitrit.co
 twitter_username: MoShitrit
 github_username:  MoShitrit
