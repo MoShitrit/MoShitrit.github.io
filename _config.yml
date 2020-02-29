@@ -12,6 +12,6 @@ github_username:  MoShitrit
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-159344299-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
