@@ -1,19 +1,19 @@
 # Site settings
 title: Moshe Vayner
-description: Kubernetes Nerd, Hardcore Potterhead & Star Wars Fan
+description: Engineer | Entrepreneur | Kubernaut | Pythonista | Hardcore Potterhead & Star Wars Fan
 
 # User settings
 username: Moshe Vayner
-user_description: Devoted husband & father, Kubernetes Nerd, huge Potterhead & Star Wars fan
-user_title: Sr. Engineer @<a target="_blank" rel="noopener noreferrer" href="https://sysdig.com">Sysdig</a><br/>CTO & Founder @<a target="_blank" rel="noopener noreferrer" href="https://yowkrs.ai">YOW</a><br/>Atlanta, GA
+user_description: Engineer | Entrepreneur | Kubernaut | Pythonista | Hardcore Potterhead & Star Wars Fan
+user_title: Sr. Engineer @<a target="_blank" rel="noopener noreferrer" href="https://sysdig.com">Sysdig</a><br/>Former CTO & Founder @<a target="_blank" rel="noopener noreferrer" href="https://yowkrs.ai">YOW</a><br/>Atlanta, GA
 email: moshe@vayner.me
 twitter_username: MosheVayner
-github_username:  moshevayner
+github_username: moshevayner
 
 # Google-analytics
 google-analytics:
   id: "UA-159344299-1"
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ["package.json", "src", "node_modules"]
 
 theme: jekyll-theme-cayman
